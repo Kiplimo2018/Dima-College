@@ -1,0 +1,108 @@
+Dear DIMA College (DIMA COLLEGE),
+
+Thank you for your order with Kenyawebexperts.com!
+
+Your hosting account has now been setup and this email contains all the information you will need in order to begin using your account.
+
+Please keep in mind that your domain name will not be visible on the internet instantly, it requires propagation
+
+Propagation Time:
+
+International Domains - 30 Minutes | Local Domains - 3 Hours
+
+New Account Information
+Hosting Package: Starter Web Hosting
+Billing Cycle: Annually
+Next Due Date: 03/09/2020
+
+cPanel Details
+cPanel URL: http://dimacollege.ac.ke/cpanel
+
+cPanel Username: dimacoll
+cPanel Password: .mc1.5JKiET0q0
+
+FTP Details
+Host Name: dimacollege.ac.ke
+
+FTP Username: dimacoll
+FTP Password: .mc1.5JKiET0q0
+
+Name Servers
+Nameserver 1: ns343.kenyawebexperts.com
+Nameserver 2: ns344.kenyawebexperts.com
+
+
+Email Settings
+Webmail Login: http://dimacollege.ac.ke/webmail
+
+Username: Email Address
+Password: Your Password
+
+Tutorials
+How to create email accounts
+How to Setup Outlook 2013
+How to setup Outlook 2003 -2010
+Tablet and Phone Settings
+How to upload a file using the File Manager
+How to Upload Files Using Filezilla
+
+
+Thank you for choosing Kenyawebexperts.com Ltd.
+
+
+-----------------------------------------------------------------------
+
+serverName 1/ or Host name: 
+
+ns343.kenyawebexperts.com
+FTP Username: dimacoll
+
+FTP Password: .mc1.5JKiET0q0
+
+FTP address: - HostName: dimacollege.ac.ke
+
+
+
+--------------------------------------------------------
+Server Name: Your domain name.					/ns344.kenyawebexperts.com
+Connect Using: FTP or SFTP.					/FTP			
+FTP Address: Your domain or IP address.				/dimacollege.ac.ke
+Port: 21 for FTP and 22 for SFTP.				/dimacoll
+Username: As set in Plesk.					/.mc1.5JKiET0q0
+Password: Your password. Check Save.				/SAVE BUTTON
+Root Directory for DV server: httpdocs; see note below 		/BLANCK - PUT NOTHING			
+Web URL: http://example.com - replace with your own 		/http://ns344.kenyawebexperts.com/
+
+PREVIEW THE PAGE AND DETAILS ARE UPDATED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
