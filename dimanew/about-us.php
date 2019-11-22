@@ -1,26 +1,9 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="dimacollege v2.6.1, dimacollege.ac.ke">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" href="assets/images/discover-mobile-350x350-16.png" type="image/x-icon">
-  <meta name="description" content="bootstrap carousel">
-  <title>WELCOME DIMA COLLEGE</title>
-    <meta name="description" content="This is the leading and the best college in nairobi kenya academic institution.we offer ict,bussiness,accounting,hotel and catering,secretarial etc" />
-	<meta name="keywords" content="ict,cpa,cict,imis,iata,cisa,atc,bussiness management," />
-    <link rel="canonical" href="http://www.dimacollege.ace.ke" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:700,400&amp;subset=cyrillic,latin,greek,vietnamese">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="font-awesome-4.6.3/css/font-awesome.min.css">
-  <link rel="stylesheet" href="assets/animate.css/animate.min.css">
-  <link rel="stylesheet" href="assets/socicon/css/socicon.min.css">
-  <link rel="stylesheet" href="assets/dimacollege/css/style.css">
-  <link rel="stylesheet" href="assets/dimacollege-slider/style.css">
-  <link rel="stylesheet" href="assets/dimacollege-gallery/style.css">
-  <link rel="stylesheet" href="assets/dimacollege/css/mbr-additional.css" type="text/css">
+ 
+<title>DIMA COLLEGE</title>
+  
 </head>
 <body>
 <section  id="tops" style="background:#D2F0FF;">
@@ -40,7 +23,7 @@
                         <div class="mbr-navbar__column"><ul class="mbr-navbar__items mbr-navbar__items--right mbr-buttons mbr-buttons--freeze mbr-buttons--right btn-decorator mbr-buttons--active"><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="index.php">Home</a></li> <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="about-us.php">about us</a></li><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="#progs">programs</a></li> 
        <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="admission.php">admission</a></li>
         <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="admission.php">News</a></li>
-         <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="admission.php">alumni</a></li>
+         <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="admission.php">Courses</a></li>
               <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="gallery.php">gallery</a></li>
                      <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="contacts.php">contacts</a></li>
                             <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="/blog">blog</a></li>
